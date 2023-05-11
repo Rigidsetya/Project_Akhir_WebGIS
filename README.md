@@ -68,3 +68,4 @@ Project ini berisi mengenai project akhir WebGIS untuk mata kuliah internet SIG
 Tes Dulu
 test dulu
 Tes dulu
+Repo ini dikhususkan untuk project akhir dari mata kuliah Internet SIG yang mana didalamnya terdapat WebGIS dengan menggunakan Framework Laravel
